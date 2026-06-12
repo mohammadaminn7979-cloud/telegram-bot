@@ -570,7 +570,7 @@ async def show_main_menu(event, user_id: int):
             "🔒 **Access Denied**\n\n"
             "━━━━━━━━━━━━━━━━━━━━\n\n"
             "You need an active subscription to use this bot.\n\n"
-            "Contact @pv_ghahreman to subscribe.\n\n"
+            "Contact @Dyrqo to subscribe.\n\n"
             "━━━━━━━━━━━━━━━━━━━━"
         )
 
